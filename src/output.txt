@@ -1,0 +1,5 @@
+Seq 2.0:	MS(85,137)	Offset:363	Score:272.000000 
+Seq 2.1:	MS(0,177)	Offset:129	Score:2383.500000 
+Seq 2.2:	MS(0,208)	Offset:858	Score:343.299988 
+Seq 2.3:	MS(209,376)	Offset:975	Score:750.000000 
+Execution Time: 173.127184
